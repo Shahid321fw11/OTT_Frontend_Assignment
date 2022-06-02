@@ -1,0 +1,15 @@
+This will be a collaborative assignment where all candidates will create a single project and will work together.
+Each candidate will be provided different tasks and they will have to commit and  start pull on  every task separately. Based on the code review your request will be merged to main branch.
+
+#task1 : Create a React App
+#task2: Install dependencies (axios, react-router v6, react-icons, tailwind, zustand)
+#task2.1 Install and configure ESLINT & Prettier
+#task3: Create Auth Screens (OTP based)
+#tash4: Create HomeScreen Static along with 4 categories
+#task5: Create Sports Home screen with static sub-categories
+#task6: Create Entertainment Home screen with static sub-categories
+#task7: Create Screen for Single Sub category (Sports)
+#task8: Create Screen for Single Sub category (Entertainment)
+#task9: Create Community Home Screen (reference Facebook)
+#task10: Create Screen for Single Community Page
+#task11 : Create User Profile Page
