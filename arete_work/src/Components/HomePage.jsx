@@ -114,7 +114,7 @@ const HomePage = () => {
             {/* movie */}
             <div style={{ display: "flex", flexWrap: "wrap", justifyContent: "space-between", }}>
                 {
-                    movies1.map((movie, index) => {
+                    movies2.map((movie, index) => {
                         return <Card key={index} sx={{ maxWidth: 250, margin: "2rem" }}>
                             <CardActionArea>
                                 <CardMedia
