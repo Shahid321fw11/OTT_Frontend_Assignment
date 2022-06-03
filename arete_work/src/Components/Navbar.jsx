@@ -21,7 +21,7 @@ const Navbar = () => {
                     >
                     </IconButton>
                     <Typography variant="h6" component="div" sx={{ flexGrow: 1 }}>
-                        <Link to="/" style={{ textDecoration: "none", color: "white" }} > Arete_healthTech Task </Link>
+                        <Link to="/" style={{ textDecoration: "none", color: "white" }} > Arete_Movie_Task </Link>
                     </Typography>
                     <Link to="/signin" style={{ textDecoration: "none", color: "white" }}>
                         <Button color="inherit" >Signin</Button>
